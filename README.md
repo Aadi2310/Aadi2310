@@ -1,21 +1,61 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aadi Dharaskar</h1>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadi-dharaskar-734391321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/ANuvAc7WPn/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:aadidharaskar11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aadi2310" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🌐 <a href="https://www.linkedin.com/in/aadi-dharaskar-734391321">LinkedIn</a></b> &nbsp;•&nbsp;
+  <b>🧩 <a href="https://leetcode.com/u/ANuvAc7WPn/">LeetCode</a></b> &nbsp;•&nbsp;
+  <b>✉️ <a href="mailto:aadidharaskar11@gmail.com">aadidharaskar11@gmail.com</a></b> &nbsp;•&nbsp;
+  <b>🐙 <a href="https://github.com/Aadi2310">GitHub Profile</a></b>
+</p>
+
+---
 
 ## 📌 About Me
 - 💻 **Java Backend & Full-Stack Developer** passionate about building robust, scalable RESTful APIs and distributed systems.
 - 🎓 **B.Tech CSE Undergraduate** at **Ramdeobaba University, Nagpur** (2024 – 2028).
 - 🛠️ Hands-on experience with **Spring Boot, Spring Security, MySQL, Redis, Docker, and React**.
-- 🧠 Actively solving algorithmic challenges on **[LeetCode](https://leetcode.com/u/ANuvAc7WPn/)** (Problem Solving & DSA).
+- 🧠 Actively solving algorithmic challenges on **[LeetCode (@ANuvAc7WPn)](https://leetcode.com/u/ANuvAc7WPn/)** (Problem Solving & DSA).
 - 📍 Based in **Nagpur, India**.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **[Hospital Management](https://github.com/Aadi2310/HospitalManagement)** | Robust backend REST API service managing hospital workflows, patient records, and medical appointments. | `Java` `Spring Boot` `MySQL` | [🔗 View Code](https://github.com/Aadi2310/HospitalManagement) |
+| **[Science Resource Gap System](https://github.com/Aadi2310/science-resource-gap-system)** | Priority scoring backend system for school resource allocation with JWT auth & Redis/BullMQ jobs. | `TypeScript` `Express.js` `PostgreSQL` `Redis` | [🔗 View Code](https://github.com/Aadi2310/science-resource-gap-system) |
+| **[TeamApex GraphHacks](https://github.com/Aadi2310/TeamApex_GraphHacks)** | GraphMind OS dashboard and graph visualization platform with cloud deployment workflows. | `TypeScript` `React` `Node.js` `AWS` | [🔗 View Code](https://github.com/Aadi2310/TeamApex_GraphHacks) |
+| **[Student Management Project](https://github.com/Aadi2310/StudentManagementProject)** | Academic and student record management backend application. | `Java` `Spring Boot` `SQL` | [🔗 View Code](https://github.com/Aadi2310/StudentManagementProject) |
 
 ---
 
 ## 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadi2310&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Aadi2310's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Aadi2310&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Aadi2310's GitHub Streak" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Aadi2310&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="Aadi2310's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Aadi2310&theme=nightowl&hide_border=true" alt="Aadi2310's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -25,15 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2310&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadi2310&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aadi2310's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi2310&theme=nightowl&radius=10" alt="Aadi2310's Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aadi2310&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
@@ -101,23 +133,34 @@
 ---
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aadi-dharaskar-734391321" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/ANuvAc7WPn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin: 0 8px;" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="mailto:aadidharaskar11@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://github.com/Aadi2310" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/GitHub.svg" alt="GitHub" width="40" height="40" style="margin: 0 8px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <b>🌐 <a href="https://www.linkedin.com/in/aadi-dharaskar-734391321">LinkedIn: aadi-dharaskar-734391321</a></b> &nbsp;•&nbsp;
+  <b>🧩 <a href="https://leetcode.com/u/ANuvAc7WPn/">LeetCode: @ANuvAc7WPn</a></b> &nbsp;•&nbsp;
+  <b>✉️ <a href="mailto:aadidharaskar11@gmail.com">aadidharaskar11@gmail.com</a></b> &nbsp;•&nbsp;
+  <b>🐙 <a href="https://github.com/Aadi2310">GitHub: @Aadi2310</a></b>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=100&section=footer"/>
 </p>
 
-<p align="center"><sub>Aadi Dharaskar (Aadi2310)</sub></p>
+<p align="center"><sub>© 2026 Aadi Dharaskar (Aadi2310)</sub></p>
